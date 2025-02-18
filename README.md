@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm May Voinarski! 👋
 
-<!--
-**mayvoinarski/mayvoinarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/mayvoinarski?label=Follow&style=social)](https://github.com/mayvoinarski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mayvoinarski/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open source, and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** HTML/CSS and JavaScript
+- **Frameworks & Libraries:** React
+- **Databases:** MySQL
+- **Tools & Platforms:**  Git, GitHub Actions, Insomnia, Beekeeper
+
+
+## 🌱 What I'm currently learning
+
+- Advanced React
+- Starting in Typescript
+- Looking for Next.js 
+
+## 📈 GitHub Stats
+
+![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayvoinarski&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** [mayvoinarski@gmail.com](mailto:mayvoinarski@gmail.com)
+- **LinkedIn:** [May Voinarski](https://www.linkedin.com/in/mayvoinarski/)
+
+
+---
+
+⭐️ From [mayvoinarski](https://github.com/mayvoinarski)
