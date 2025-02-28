@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 How to reach me
 
 - **Email:** [mayvoinarski@gmail.com](mailto:mayvoinarski@gmail.com)
-- **LinkedIn:** [May Voinarski](https://www.linkedin.com/in/mayvoinarski/)
+- **LinkedIn:** [May Voinarski](https://www.linkedin.com/in/maysa-voinarski/)
 
 
 ---
