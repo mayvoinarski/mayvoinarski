@@ -15,8 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌱 What I'm currently learning
 
-- Advanced React
-- Starting in Typescript
+- Advanced in markup languages
+- Increasing my knowledge about JavaScript
+- Discovering React
 - Looking for Next.js 
 
 ## 📈 GitHub Stats
