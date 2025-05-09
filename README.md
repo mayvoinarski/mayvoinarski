@@ -20,9 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Discovering React
 - Looking for Next.js 
 
-## 📈 GitHub Stats
-
-![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayvoinarski&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
