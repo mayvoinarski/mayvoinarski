@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Advanced in markup languages
 - Increasing my knowledge about JavaScript
 - Discovering React
-- Looking for Next.js 
 
 
 ## 📫 How to reach me
