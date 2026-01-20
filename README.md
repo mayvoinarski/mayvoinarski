@@ -10,14 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Languages:** HTML/CSS, JavaScript and Ruby
 - **Frameworks & Libraries:** React
 - **Databases:** MySQL
-- **Tools & Platforms:**  Git, Gitlab , Insomnia, Beekeeper, Jira and Notion
-
-
-## 🌱 What I'm currently learning
-
-- Advanced in markup languages
-- Increasing my knowledge about JavaScript
-- Discovering React
+- **Tools & Platforms:**  Git, Gitlab, Insomnia, Beekeeper, Jira and Notion
 
 
 ## 📫 How to reach me
