@@ -3,7 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/mayvoinarski?label=Follow&style=social)](https://github.com/mayvoinarski)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mayvoinarski/)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in front-end development and constantly learning new technologies.
+Welcome to my GitHub profile! 
+I'm a Front-End developer and currently working at <a href="https://www.produttivo.com.br/" target="_blank">@Produttivo</a>
 
 ## 🔧 Technologies & Tools
 
